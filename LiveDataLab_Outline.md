@@ -14,7 +14,7 @@
 
 ## Projects
 ### Project You've Started
-*I believe this is the same element as on the "Home" Page, but need to confirm*
+* I believe this is the same element as on the "Home" Page, but need to confirm
 ### All Projects
 * Link to each project for the coursee listed in a clickable element
 * In each project element the Github link, "Leaderboard", and "Submission History" are listed
