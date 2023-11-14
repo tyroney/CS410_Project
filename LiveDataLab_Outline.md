@@ -18,7 +18,6 @@
 ### All Projects
 * Link to each project for the coursee listed in a clickable element
 * In each project element the Github link, "Leaderboard", and "Submission History" are listed
-* 
 
 
 ## Courses
@@ -30,7 +29,7 @@
 
 
 ## Manage
-* This is a page for courses to be added or modified (TAs or instructors
+* This is a page for courses to be added or modified (TAs or instructors)
 ### Courses you own
 * List of courses you are responsible for managing
 ### Projects you own
