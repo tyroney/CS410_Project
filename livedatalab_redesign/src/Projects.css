@@ -1,0 +1,26 @@
+.Projects {
+  text-align: left;
+}
+
+.LiveDataLabLogo {
+  height: 10vmin;
+  pointer-events: none;
+  align-self: start;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .LiveDataLabLogo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.Header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: rgb(50, 50, 50);
+}
